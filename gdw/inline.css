@@ -1,4 +1,21 @@
 body {
-    background-color: #FFE4C4;
+    background-color: #00fefe;
     margin: 40px; 
+}
+
+h1, footer {
+    text-align: center;
+}
+footer {
+    margin-top: 20px;
+}
+a:link, a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+b {
+    color: #fe68fe
+}
+strong {
+    color: #fefe00;
 }
