@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>Welcome to Akram's world</title>
-</head>
 <style>
 body {
     margin: 40px ;
@@ -20,6 +19,7 @@ p {
     text-align: justify;
 }
 </style>
+</head>
 <body>
 <h1>Akram's Website</h1>
 
@@ -40,8 +40,8 @@ p {
 <footer>
 <a href="http://validator.w3.org/check?uri=https://abikoni2003.github.io/itd110/">
 <strong> HTML </strong> Valid! </a> |
-<a
-href="http://jigsaw.w3.org/css-validator/validator?uri=https://abikoni2003.github.io/itd110/?profile=css3">
+
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=https://abikoni2003.github.io/itd110/?profile=css3">
 <strong> CSS </strong> Valid! </a>
 </footer>
 </body>
