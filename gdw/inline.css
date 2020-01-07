@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Getting Down with HTML Lessons</title>
+<style>
 body {
     background-color: #00fefe;
     margin: 40px; 
@@ -19,3 +25,14 @@ b {
 strong {
     color: #fefe00;
 }
+</style>
+
+<footer>
+<a href="http://validator.w3.org/check?uri=https://abikoni2003.github.io/itd110/gdw/inline.html">
+<strong> HTML </strong> Valid! </a> |
+
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=https://abikoni2003.github.io/itd110/?profile=css3">
+<strong> CSS </strong> Valid! </a>
+</footer>
+</body>
+</html>
