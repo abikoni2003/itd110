@@ -11,13 +11,12 @@
 </head>
 <body>
 
- <img src="https://media0.giphy.com/media/9XrHnNesgUh44/giphy.gif" alt="destiny logo"> 
+ <img src="https://66.media.tumblr.com/5551bf7761d92d5b93901a5876e5f190/tumblr_naj0wvTcSo1qzh2aio6_1280.gif" alt="destiny logo"> 
  <img src="https://thumbs.gfycat.com/SplendidLegalFalcon-size_restricted.gif" alt="destiny 2 logo">
 
 <p>Destiny is an online-only multiplayer first-person shooter video game developed by bungie </p>
 
-</body>
-</html>
+
 <style>
 body {
     margin: 50px 50px 50px 50px;
@@ -33,3 +32,14 @@ p {
 }
 </style>
 </head> 
+<footer>
+<a href="http://validator.w3.org/check?uri=https://abikoni2003.github.io/itd110/">
+<strong> HTML </strong> Valid! </a> |
+
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=https://abikoni2003.github.io/itd110/?profile=css3">
+<strong> CSS </strong> Valid! </a>
+</footer>
+</body>
+</html>
+
+
