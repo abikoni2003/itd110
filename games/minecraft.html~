@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<title>minecraft</title>
-
 <html lang="en">
-
+<head>
 <meta charset="utf-8">
-
-<title>Minecraft</title>
-
+<title>Object Elements</title>
+</head>
+<body>
 <head>
 <style>
 body {
